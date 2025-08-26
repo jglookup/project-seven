@@ -8,12 +8,12 @@ This project analyzes used car listings in the US and presents key insights thro
 
 ## Files
 project-seven/
-├── app.py
-├── vehicles_us.csv
-├── requirements.txt
-├── README.md
-└── notebooks/
-    └── EDA.ipynb
+- app.py
+- vehicles_us.csv
+- requirements.txt
+- README.md
+- notebooks/
+    - EDA.ipynb
 
 ## Features
 
