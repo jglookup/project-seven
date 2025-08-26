@@ -214,3 +214,7 @@ __marimo__/
 
 # Your virtual environment folder
 vehicles_env/
+vehicles_us.csv
+
+# IDE
+.idea/
