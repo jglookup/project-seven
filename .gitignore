@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS system file
+.DS_Store
+
+# Jupyter Notebooks (already covered, but just in case)
+.ipynb_checkpoints/
+
+# Your virtual environment folder
+vehicles_env/
