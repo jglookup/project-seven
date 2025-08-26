@@ -7,12 +7,13 @@ This project analyzes used car listings in the US and presents key insights thro
 [https://project-seven.onrender.com](https://project-seven.onrender.com)
 
 ## Files
+project-seven/
 ├── app.py
 ├── vehicles_us.csv
 ├── requirements.txt
 ├── README.md
 └── notebooks/
-└── EDA.ipynb
+    └── EDA.ipynb
 
 ## Features
 
